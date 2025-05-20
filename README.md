@@ -1,7 +1,7 @@
-# 🎥 Movie Night - A Netflix-Inspired React App
+# 🎥 Movie-Land - A  React-Based Movie Browser
 
-This is a Netflix-style movie browsing application built with **React**, **Framer Motion**, and **Tailwind CSS**, using data from the **TMDB API**.
-
+This is a movie browsing app crafted with **React**, **Tailwind CSS**, and **Framer Motion**. It pulls real-time movie data from the **TMDB API**, offering an immersive experience similar to Netflix.
+.
 ## ✨ Key Highlights
 
 🎞️ Discover movies across multiple genres including Horror, Sci-Fi, Comedy, and more
